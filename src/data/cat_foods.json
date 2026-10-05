@@ -1,0 +1,410 @@
+[
+  {
+    "slug": "can-cats-eat-apples",
+    "food": "Apples",
+    "isSafe": true,
+    "shortAnswer": "Yes, cats can eat apples. They are an excellent source of vitamins A and C, as well as fiber for your cat.",
+    "longExplanation": "Apples make an excellent, crunchy snack for cats. Because cats are prone to obesity, the low-fat and low-calorie nature of apples makes them a perfect treat. However, you must always remove the core and all the seeds. Apple seeds contain trace amounts of cyanide which is toxic to dogs.",
+    "servingSize": "1 to 2 small, bite-sized slices per day.",
+    "risks": [
+      "Choking hazard from the core",
+      "Toxicity from seeds"
+    ],
+    "benefits": [
+      "Vitamins A & C",
+      "Fiber for healthy digestion",
+      "Helps clean their teeth and freshen breath"
+    ]
+  },
+  {
+    "slug": "can-cats-eat-bananas",
+    "food": "Bananas",
+    "isSafe": true,
+    "shortAnswer": "Yes, cats can eat bananas in moderation. They are a great low-calorie treat packed with potassium.",
+    "longExplanation": "Bananas are a fantastic, safe treat for cats. They are high in potassium, vitamins, biotin, fiber, and copper. They are low in cholesterol and sodium. However, because bananas are high in sugar, they should be given as a special treat and not as part of their main diet to prevent weight gain.",
+    "servingSize": "A few small slices (about an inch total) occasionally.",
+    "risks": [
+      "Weight gain if fed too often due to high sugar",
+      "Constipation in large amounts"
+    ],
+    "benefits": [
+      "High in potassium",
+      "Good source of fiber",
+      "Easy to chew for cats with dental issues"
+    ]
+  },
+  {
+    "slug": "can-cats-eat-blueberries",
+    "food": "Blueberries",
+    "isSafe": true,
+    "shortAnswer": "Yes! Blueberries are a fantastic superfood for cats.",
+    "longExplanation": "Blueberries are one of the best fruits you can give your cat. They are packed with antioxidants, which prevent cell damage in humans and canines alike. They are perfectly bite-sized, making them a great alternative to high-calorie store-bought treats.",
+    "servingSize": "2 to 4 berries per day as a treat.",
+    "risks": [
+      "Choking hazard for very small puppies",
+      "Stomach upset if they eat too many"
+    ],
+    "benefits": [
+      "Extremely high in antioxidants",
+      "Vitamin C",
+      "Low calorie treat"
+    ]
+  },
+  {
+    "slug": "can-cats-eat-carrots",
+    "food": "Carrots",
+    "isSafe": true,
+    "shortAnswer": "Yes, cats can eat carrots. Both raw and cooked carrots are excellent, healthy treats.",
+    "longExplanation": "Carrots are a very low-calorie snack that is high in fiber and beta-carotene, which produces vitamin A. Plus, crunching on raw carrots is great for a cat's teeth and can help remove plaque. If your cat struggles to chew raw carrots, you can boil or steam them without any added salt or butter.",
+    "servingSize": "1-2 baby carrots or a few small slices of a regular carrot.",
+    "risks": [
+      "Choking hazard if not cut into small pieces"
+    ],
+    "benefits": [
+      "Removes dental plaque",
+      "High in Vitamin A",
+      "Low calorie"
+    ]
+  },
+  {
+    "slug": "can-cats-eat-chocolate",
+    "food": "Chocolate",
+    "isSafe": false,
+    "shortAnswer": "No! Chocolate is highly toxic to cats and all dogs.",
+    "longExplanation": "Chocolate contains a chemical called theobromine, which dogs cannot metabolize effectively. For a small breed like a cat, even a small amount of chocolate can cause severe poisoning. Dark chocolate and baking chocolate are the most dangerous. Symptoms of poisoning include vomiting, diarrhea, rapid breathing, and seizures. If your cat eats chocolate, contact a vet immediately.",
+    "servingSize": "None. Zero.",
+    "risks": [
+      "Theobromine toxicity",
+      "Vomiting and diarrhea",
+      "Heart arrhythmias",
+      "Seizures or death"
+    ],
+    "benefits": []
+  },
+  {
+    "slug": "can-cats-eat-grapes-and-raisins",
+    "food": "Grapes and Raisins",
+    "isSafe": false,
+    "shortAnswer": "No, grapes and raisins are highly toxic to cats and can cause acute kidney failure.",
+    "longExplanation": "Grapes and raisins are among the most dangerous human foods for dogs. The exact toxic substance within grapes is still unknown, but it causes rapid and severe kidney failure in dogs. A single grape or raisin can be incredibly dangerous for a small cat.",
+    "servingSize": "None. Highly toxic.",
+    "risks": [
+      "Acute kidney failure",
+      "Lethargy and weakness",
+      "Vomiting"
+    ],
+    "benefits": []
+  },
+  {
+    "slug": "can-cats-eat-onions",
+    "food": "Onions",
+    "isSafe": false,
+    "shortAnswer": "No, onions are toxic to cats and can destroy their red blood cells.",
+    "longExplanation": "Onions (along with garlic, leeks, and chives) are part of the Allium family and are highly toxic to dogs. They contain N-propyl disulfide, a compound that damages the oxygen-carrying protein in red blood cells, leading to severe anemia. Never feed your cat food cooked with onions or onion powder.",
+    "servingSize": "None.",
+    "risks": [
+      "Damage to red blood cells",
+      "Anemia",
+      "Weakness and fainting"
+    ],
+    "benefits": []
+  },
+  {
+    "slug": "can-cats-eat-garlic",
+    "food": "Garlic",
+    "isSafe": false,
+    "shortAnswer": "No, garlic is toxic to cats and can cause anemia.",
+    "longExplanation": "Like onions, garlic belongs to the Allium family. It is actually considered five times more potent than onions. Garlic can cause oxidative damage to your cat's red blood cells, leading to hemolytic anemia. Symptoms of poisoning may not appear for a few days after consumption.",
+    "servingSize": "None.",
+    "risks": [
+      "Red blood cell destruction",
+      "Elevated heart rate",
+      "Collapse"
+    ],
+    "benefits": []
+  },
+  {
+    "slug": "can-cats-eat-peanut-butter",
+    "food": "Peanut Butter",
+    "isSafe": true,
+    "shortAnswer": "Yes, in moderation, as long as it does NOT contain xylitol.",
+    "longExplanation": "Peanut butter is a classic dog treat! It's an excellent source of protein, healthy fats, and vitamins B and E. However, you must check the ingredient label. Many brands now use an artificial sweetener called xylitol, which is highly toxic to dogs. Also, choose unsalted peanut butter and feed it sparingly, as it is very high in calories.",
+    "servingSize": "1/2 to 1 teaspoon occasionally.",
+    "risks": [
+      "Xylitol toxicity (if present)",
+      "Weight gain from high calories",
+      "Pancreatitis if fed in large amounts"
+    ],
+    "benefits": [
+      "High in protein",
+      "Healthy fats",
+      "Great for hiding pills"
+    ]
+  },
+  {
+    "slug": "can-cats-eat-cheese",
+    "food": "Cheese",
+    "isSafe": true,
+    "shortAnswer": "Yes, but only in small amounts as some cats are lactose intolerant.",
+    "longExplanation": "Cheese can be a great high-value training treat for cats. However, many dogs are lactose intolerant, meaning dairy can cause stomach upset and diarrhea. Cheese is also very high in fat, which can lead to obesity or pancreatitis in cats. If you feed cheese, choose low-fat options like cottage cheese or mozzarella.",
+    "servingSize": "A tiny cube or a small sprinkle of low-fat cheese.",
+    "risks": [
+      "Lactose intolerance (diarrhea, gas)",
+      "Weight gain",
+      "Pancreatitis from high fat"
+    ],
+    "benefits": [
+      "High value training reward",
+      "Contains calcium"
+    ]
+  },
+  {
+    "slug": "can-cats-eat-watermelon",
+    "food": "Watermelon",
+    "isSafe": true,
+    "shortAnswer": "Yes, watermelon is a refreshing and safe treat, minus the seeds and rind.",
+    "longExplanation": "Watermelon is 92% water, making it an excellent hydrating treat for cats, especially during hot summer days. It is packed with vitamins A, B6, and C, as well as potassium. You must remove all seeds (to prevent intestinal blockage) and the rind (which can cause gastrointestinal upset).",
+    "servingSize": "2 to 3 small, seedless cubes.",
+    "risks": [
+      "Intestinal blockage from seeds",
+      "Stomach upset from the rind"
+    ],
+    "benefits": [
+      "Excellent hydration",
+      "Vitamins A, B6, C",
+      "Low calorie"
+    ]
+  },
+  {
+    "slug": "can-cats-eat-tomatoes",
+    "food": "Tomatoes",
+    "isSafe": true,
+    "shortAnswer": "Yes, but only fully ripe, red tomatoes. Green parts are toxic.",
+    "longExplanation": "Fully ripened, red tomatoes are generally safe for cats to eat in small amounts. However, tomatoes belong to the nightshade family. The green parts of the tomato plant (leaves, stems, and unripe green tomatoes) contain a toxic substance called solanine. If your cat eats these green parts, it can cause severe stomach upset.",
+    "servingSize": "A small bite of a ripe, red tomato.",
+    "risks": [
+      "Solanine toxicity from green parts/stems",
+      "Stomach upset"
+    ],
+    "benefits": [
+      "Contains lycopene",
+      "Low calorie"
+    ]
+  },
+  {
+    "slug": "can-cats-eat-avocado",
+    "food": "Avocado",
+    "isSafe": false,
+    "shortAnswer": "No, avocados contain a toxin called persin which is harmful to dogs.",
+    "longExplanation": "While healthy for humans, avocados contain a fungicidal toxin called persin. It is present in the fruit, the pit, the leaves, and the actual plant. While dogs are more resistant to persin than some other animals, it can still cause vomiting and diarrhea. The large pit is also a severe choking hazard and can cause intestinal blockage.",
+    "servingSize": "None.",
+    "risks": [
+      "Persin toxicity (vomiting/diarrhea)",
+      "Choking hazard from the pit",
+      "Intestinal blockage"
+    ],
+    "benefits": []
+  },
+  {
+    "slug": "can-cats-eat-strawberries",
+    "food": "Strawberries",
+    "isSafe": true,
+    "shortAnswer": "Yes, strawberries are a safe and healthy treat for cats.",
+    "longExplanation": "Strawberries are full of fiber and vitamin C. They also contain an enzyme that can help whiten your cat's teeth as they eat them! Because they contain sugar, be sure to give them in moderation. Always remove the stem and cut them into smaller pieces to prevent choking.",
+    "servingSize": "1/2 to 1 strawberry, chopped, occasionally.",
+    "risks": [
+      "Weight gain if fed too often due to sugar",
+      "Choking hazard if not cut up"
+    ],
+    "benefits": [
+      "Vitamin C",
+      "Teeth whitening enzyme",
+      "High fiber"
+    ]
+  },
+  {
+    "slug": "can-cats-eat-macadamia-nuts",
+    "food": "Macadamia Nuts",
+    "isSafe": false,
+    "shortAnswer": "No, macadamia nuts are highly toxic to dogs and can cause neurological issues.",
+    "longExplanation": "Macadamia nuts are incredibly poisonous to dogs. The specific toxin is unknown, but ingestion can lead to vomiting, weakness in the back legs, tremors, hyperthermia, and depression. Even a very small amount can cause severe symptoms in a cat. If your cat eats these, contact a vet immediately.",
+    "servingSize": "None. Highly toxic.",
+    "risks": [
+      "Severe neurological issues",
+      "Weakness in hind legs",
+      "Tremors and hyperthermia"
+    ],
+    "benefits": []
+  },
+  {
+    "slug": "can-cats-eat-pineapple",
+    "food": "Pineapple",
+    "isSafe": true,
+    "shortAnswer": "Yes, fresh pineapple is a great sweet treat in small amounts.",
+    "longExplanation": "Fresh pineapple is safe for cats. It's full of vitamins, minerals, and fiber. It also contains bromelain, an enzyme that makes it easier for dogs to absorb proteins. Avoid feeding your cat canned pineapple, as the syrup contains massive amounts of extra sugar.",
+    "servingSize": "1 to 2 small, bite-sized chunks.",
+    "risks": [
+      "Too much sugar can cause obesity",
+      "Stomach upset if fed too much"
+    ],
+    "benefits": [
+      "Contains bromelain for protein absorption",
+      "High in vitamins",
+      "Hydrating"
+    ]
+  },
+  {
+    "slug": "can-cats-eat-xylitol",
+    "food": "Xylitol",
+    "isSafe": false,
+    "shortAnswer": "No! Xylitol is a deadly artificial sweetener found in many human foods.",
+    "longExplanation": "Xylitol is arguably one of the most dangerous things your cat could eat. It is an artificial sweetener found in sugar-free gum, candies, some peanut butters, and toothpaste. In dogs, xylitol causes a massive release of insulin, leading to extreme hypoglycemia (low blood sugar), seizures, liver failure, and death within hours.",
+    "servingSize": "None. Extremely lethal.",
+    "risks": [
+      "Extreme hypoglycemia",
+      "Liver failure",
+      "Seizures",
+      "Death"
+    ],
+    "benefits": []
+  },
+  {
+    "slug": "can-cats-eat-chicken",
+    "food": "Chicken",
+    "isSafe": true,
+    "shortAnswer": "Yes, cooked, unseasoned chicken is perfectly safe and healthy for cats.",
+    "longExplanation": "Chicken is a staple ingredient in most commercial dog foods. It is a fantastic source of lean protein. You can feed your cat plain, boiled, or baked chicken. Never feed them chicken cooked with onions, garlic, or heavy seasonings. Most importantly, never give your cat cooked chicken bones, as they can splinter and puncture their digestive tract.",
+    "servingSize": "A small handful of shredded, plain chicken.",
+    "risks": [
+      "Choking or internal punctures from cooked bones",
+      "Allergic reaction (some dogs are allergic to chicken)"
+    ],
+    "benefits": [
+      "Excellent lean protein source",
+      "Easy to digest for upset stomachs"
+    ]
+  },
+  {
+    "slug": "can-cats-eat-salmon",
+    "food": "Salmon",
+    "isSafe": true,
+    "shortAnswer": "Yes, fully cooked, boneless salmon is an amazing superfood for cats.",
+    "longExplanation": "Salmon is incredibly healthy for cats. It is packed with Omega-3 fatty acids, which keep their coat shiny, reduce inflammation, and support immune health. However, you must NEVER feed a dog raw or undercooked salmon, as it can contain a parasite that causes 'salmon poisoning disease', which can be fatal. Serve it fully cooked with absolutely no bones.",
+    "servingSize": "A small piece of cooked, unseasoned salmon.",
+    "risks": [
+      "Salmon poisoning disease from raw fish",
+      "Choking hazard from bones"
+    ],
+    "benefits": [
+      "High in Omega-3 fatty acids",
+      "Promotes a shiny coat",
+      "Reduces joint inflammation"
+    ]
+  },
+  {
+    "slug": "can-cats-eat-bread",
+    "food": "Bread",
+    "isSafe": true,
+    "shortAnswer": "Yes, plain white or whole wheat bread is generally safe, but offers no nutritional value.",
+    "longExplanation": "A small piece of plain bread won't hurt your cat, but it's basically empty calories. It's full of carbohydrates which can contribute to obesity, a common problem in cats. Never feed a dog raw bread dough, as the yeast can continue to rise in their stomach, causing dangerous bloating and alcohol toxicosis.",
+    "servingSize": "A tiny piece occasionally, but it's better avoided.",
+    "risks": [
+      "Obesity from empty calories",
+      "Severe bloating from raw yeast dough"
+    ],
+    "benefits": [
+      "Can sometimes help settle a mildly upset stomach"
+    ]
+  },
+  {
+    "slug": "can-cats-eat-almonds",
+    "food": "Almonds",
+    "isSafe": false,
+    "shortAnswer": "No, Cats should not eat almonds. While they are not inherently toxic like macadamia nuts, they pose severe choking hazards and digestive risks.",
+    "longExplanation": "Almonds are poorly digested by canines and can easily cause gastric intestinal obstruction or painful stomach upset. Due to a Cat's brachycephalic anatomy and narrow airways, whole nuts present an exceptionally high risk of choking or tracheal obstruction. Additionally, the concentrated fat content in almonds can rapidly trigger acute pancreatitis and exacerbates weight gain in this small breed. Salted, roasted, or flavored varieties also introduce hazardous levels of sodium and artificial seasonings.",
+    "servingSize": "None",
+    "risks": [
+      "Severe choking hazard due to brachycephalic airway structure",
+      "High fat content triggering acute pancreatitis",
+      "Gastrointestinal obstruction or intestinal distress",
+      "Salt toxicosis and fluid retention from seasoned nuts"
+    ],
+    "benefits": [
+      "Contains vitamin E (though poorly metabolized by dogs)",
+      "Trace plant-based protein"
+    ]
+  },
+  {
+    "slug": "can-cats-eat-bell-peppers",
+    "food": "Bell Peppers",
+    "isSafe": true,
+    "shortAnswer": "Yes, Cats can safely eat bell peppers in moderation. Red bell peppers are especially nutritious and offer a healthy, low-calorie treat.",
+    "longExplanation": "Bell peppers are non-toxic and packed with essential vitamins like A, C, and beta-carotene, which support ocular, skin, and immune health. Because Cats are notoriously prone to weight gain, this low-calorie vegetable makes a superb alternative to commercial treats. However, the tough outer skin can sometimes be difficult for their sensitive digestive systems to process, so lightly steaming and dicing them is recommended. Always ensure the stem and seeds are completely removed prior to feeding.",
+    "servingSize": "1 to 2 tablespoons of finely diced, plain bell pepper (raw or steamed).",
+    "risks": [
+      "Choking hazard if fed in large or uncut pieces due to Cat's brachycephalic anatomy",
+      "Gastrointestinal upset, diarrhea, or flatulence if fed in excess",
+      "Indigestion or mild obstruction from hard-to-digest seeds and stems"
+    ],
+    "benefits": [
+      "Low in calories and fat, supporting healthy weight management in Cats",
+      "High in vitamins A, C, and beta-carotene for immune and eye health",
+      "Loaded with antioxidants that help reduce inflammation and support cellular health"
+    ]
+  },
+  {
+    "slug": "can-cats-eat-cabbage",
+    "food": "Cabbage",
+    "isSafe": true,
+    "shortAnswer": "Yes, cabbage is safe for Cats to eat in moderation, ideally served plain and cooked. However, because Cats are naturally prone to flatulence, it should only be fed in small quantities.",
+    "longExplanation": "Cabbage is a nutritious, low-calorie vegetable rich in fiber, antioxidants, and vitamins C and K that can support a Cat's immune and digestive health. However, cabbage contains raffinose, a complex carbohydrate that ferments in the colon and can exacerbate the flatulence and bloating commonly seen in brachycephalic breeds. Additionally, raw cabbage contains thiocyanates, which can interfere with thyroid function if consumed in excessive amounts over long periods. Lightly steaming or boiling the cabbage without any oils, salt, or seasonings neutralizes these compounds and makes it much easier for a Cat to digest.",
+    "servingSize": "1 to 2 tablespoons of chopped, plain cooked cabbage",
+    "risks": [
+      "Severe flatulence and abdominal discomfort",
+      "Gastrointestinal upset or diarrhea if fed in large amounts",
+      "Potential thyroid suppression from thiocyanates if fed raw in excess"
+    ],
+    "benefits": [
+      "Rich in dietary fiber to support healthy bowel movements",
+      "High in vitamins C and K to boost immunity and bone health",
+      "Packed with natural antioxidants that help reduce inflammation"
+    ]
+  },
+  {
+    "slug": "can-cats-eat-cherries",
+    "food": "Cherries",
+    "isSafe": false,
+    "shortAnswer": "No, Cats should not eat cherries. The pits, stems, and leaves contain toxic cyanide, and the pits present a significant choking and blockage hazard.",
+    "longExplanation": "Although the fleshy portion of a ripe cherry is technically non-toxic, the hazards associated with the fruit make it unsafe for dogs. Cherry pits, stems, and leaves contain amygdalin, which breaks down into cyanide and can cause respiratory distress, dilated pupils, and shock. Additionally, a Cat's brachycephalic airway puts them at an elevated risk of choking on rigid pits, while their small gastrointestinal tract makes them vulnerable to intestinal obstructions. Because the risks far outweigh any minor nutritional value, cherries should be strictly excluded from a Cat's diet.",
+    "servingSize": "None",
+    "risks": [
+      "Cyanide poisoning from pits, stems, and leaves",
+      "Choking hazard exacerbated by brachycephalic anatomy",
+      "Intestinal obstruction or gastrointestinal impaction",
+      "Severe stomach upset, vomiting, and diarrhea"
+    ],
+    "benefits": [
+      "Rich in antioxidants and vitamin C (only in the flesh, but not worth the risk)",
+      "High moisture content"
+    ]
+  },
+  {
+    "slug": "can-cats-eat-coconut",
+    "food": "Coconut",
+    "isSafe": true,
+    "shortAnswer": "Yes, Cats can safely eat coconut in strict moderation as an occasional treat. However, it must always be unsweetened and completely free of the fibrous husk and hard outer shell.",
+    "longExplanation": "Coconut meat offers beneficial fatty acids that can support a Cat's skin and coat health, but it is extremely calorie-dense and high in saturated fats. Because Cats are notoriously prone to weight gain and pancreatitis, excessive fat intake can quickly lead to severe gastrointestinal distress or inflammation of the pancreas. The outer husk and shell present dangerous choking and intestinal blockage risks, so only small amounts of raw, soft flesh should ever be offered. When prepared properly and fed sparingly, it serves as a safe, flavorful snack.",
+    "servingSize": "1 teaspoon of fresh, unsweetened coconut meat (chopped finely)",
+    "risks": [
+      "High fat content can trigger acute pancreatitis",
+      "Caloric density contributes to rapid weight gain and obesity",
+      "Gastrointestinal upset, loose stools, or diarrhea from high oil content",
+      "Choking or intestinal obstruction from the hard shell and fibrous husk"
+    ],
+    "benefits": [
+      "Lauric acid provides anti-inflammatory and immune-supporting properties",
+      "Medium-chain triglycerides help nourish the skin and improve coat shine",
+      "Provides dietary fiber and trace minerals such as manganese and iron"
+    ]
+  }
+]
